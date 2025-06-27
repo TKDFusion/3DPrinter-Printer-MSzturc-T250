@@ -46,7 +46,7 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 - Bill of Material
 - [Join our Discord Server](https://discord.gg/fW7BcUErgZ)
 - [Support this Project on Patreon](https://www.patreon.com/The100)
-- Grad the CAD files 
+- [Grad the CAD files](/CAD)
 - [Our Community on Facebook](https://www.facebook.com/groups/181335024786568)
 - [Printers build by the Community](https://discord.com/channels/1086229147107459133/1288142417824055469)
 
