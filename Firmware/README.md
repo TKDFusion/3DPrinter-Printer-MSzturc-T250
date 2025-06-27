@@ -1,0 +1,1 @@
+The T250 runs on [THEOS](https://github.com/MSzturc/THEOS) — a custom-built, Klipper-based operating system designed from the ground up for high-speed 3D printing.
