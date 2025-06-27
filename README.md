@@ -43,7 +43,7 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 ---
 
 ## Links
-- Bill of Material
+- [Bill of Material](https://docs.google.com/spreadsheets/d/1wDRmPbQatBhcjkK7rbawSzn-e6-QCa2Ty5k3KTWX-eA)
 - [Join our Discord Server](https://discord.gg/fW7BcUErgZ)
 - [Support this Project on Patreon](https://www.patreon.com/The100)
 - [Grad the CAD files](/CAD)
