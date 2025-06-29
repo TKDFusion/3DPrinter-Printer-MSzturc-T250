@@ -54,6 +54,21 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 
 ---
 
+## Print Settings
+
+To print the STL files, a 3D printer with a print bed of at least 350x350mm is required. I've printed most parts out of PLA. It's recommended to print the Carriage out of Nylon/ASA.
+For all STL Parts i've used the following settings:
+
+- 0.25 Layer height
+- 0.5 Line width
+- 5 Top layers
+- 5 Bottom layers
+- 5 Walls
+- 25% Infill
+- Grid infill for the Frame parts and Gyroid for the Gantry & Toolhead parts
+
+---
+
 ## 📎 License
 
 This project is licensed under the **Creative Commons** (Attribution-NonCommercial-ShareAlike 4.0 International).
