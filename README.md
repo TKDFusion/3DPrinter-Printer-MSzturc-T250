@@ -22,7 +22,7 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 
 - Prints a **Speedboat in under 2 minutes**  
 - Produces **high-quality parts 4× faster** compared to a Bambu Printer
-- Currently ranks **#1 on the world’s fastest printer leaderboard**
+- Currently ranks **#1 on the world’s fastest printer [leaderboard](https://docs.google.com/spreadsheets/d/1lFiJi-X3Xm3hh3I9Ty9dfACMiBWxHFAOUeiU1km9m6I)**
 - And the best part: It’s **100% open-source**.  
   All resources needed to build your own T250 are available in this repository.
 
