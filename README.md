@@ -80,7 +80,7 @@ You are free to build, remix, and adapt the printers design as long as you give 
 ## ❤️ Credits
 
 - Developed and tested by [@MattThePrintingNerd](https://www.youtube.com/@MattThePrintingNerd)  
-- Special thanks to [@Volgger](https://www.youtube.com/@Volgger2278), who supported the entire Alpha phase with testing, feedback, and countless improvements that helped shape the final printer.
+- Special thanks to [@Volgger](https://www.youtube.com/@HomeOfTheWildSau), who supported the entire Alpha phase with testing, feedback, and countless improvements that helped shape the final printer.
 - Endless gratitude to all my **Patreon supporters**, whose ongoing support makes projects like this possible!
 
 ---
