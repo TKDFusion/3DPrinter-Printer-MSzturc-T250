@@ -4,6 +4,8 @@
 
 <img style="width: 100%; height: 100%" width="100%" class="lazy" src="Photos/RealTimePrint.gif">
 
+<a href="https://www.youtube.com/watch?v=qVF_iwO3d04" > 
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="Photos/YTVideo.png">
 </a>
 
 </p>
@@ -30,7 +32,7 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 
 - 💨 **Acceleration**: Up to **250,000 mm/s²** – proven in real prints, not just on paper
 - ⚡ **Speed**: Infill at **1500 mm/s**, outer walls at **600+ mm/s**
-- 🔄 **Motion**: Quad-motor CoreXY Kinematics, driven by TMC2160 stepper drivers at **60 V**
+- 🔄 **Motion**: Quad-motor CoreXY Kinematics, driven by TMC2160 stepper drivers at up to **60 V**
 - 🧠 **Toolhead**: Custom direct drive, **center-of-gravity optimized** for rod-based gantry
 - 🔥 **Hotend**: Compatible with all major high-flow systems (Rapido, Mosquito Magnum+, Goliath, etc.)
 - 🌪️ **Cooling**: Remote CPAP cooling + dual side blowers + active motor cooling
