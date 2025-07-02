@@ -22,7 +22,7 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 
 - Prints a **Speedboat in under 2 minutes**  
 - Produces **high-quality parts 4× faster** compared to a Bambu Printer
-- Currently ranks **#1 on the world’s fastest printer leaderboard**
+- Currently ranks **#1 on the world’s fastest printer [leaderboard](https://docs.google.com/spreadsheets/d/1lFiJi-X3Xm3hh3I9Ty9dfACMiBWxHFAOUeiU1km9m6I)**
 - And the best part: It’s **100% open-source**.  
   All resources needed to build your own T250 are available in this repository.
 
@@ -48,9 +48,24 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 - [Bill of Material](https://docs.google.com/spreadsheets/d/1wDRmPbQatBhcjkK7rbawSzn-e6-QCa2Ty5k3KTWX-eA)
 - [Join our Discord Server](https://discord.gg/fW7BcUErgZ)
 - [Support this Project on Patreon](https://www.patreon.com/The100)
-- [Grad the CAD files](/CAD)
+- [Grab the CAD files](/CAD)
 - [Our Community on Facebook](https://www.facebook.com/groups/181335024786568)
-- [Printers build by the Community](https://discord.com/channels/1086229147107459133/1288142417824055469)
+- [Printers built by the Community](https://discord.com/channels/1086229147107459133/1288142417824055469)
+
+---
+
+## Print Settings
+
+To print the STL files, a 3D printer with a print bed of at least 350x350mm is required. I've printed most parts out of PLA. It's recommended to print the Carriage out of Nylon/ASA.
+For all STL Parts i've used the following settings:
+
+- 0.25 Layer height
+- 0.5 Line width
+- 5 Top layers
+- 5 Bottom layers
+- 5 Walls
+- 25% Infill
+- Grid infill for the Frame parts and Gyroid for the Gantry & Toolhead parts
 
 ---
 
@@ -79,7 +94,7 @@ You are free to build, remix, and adapt the printers design as long as you give 
 ## ❤️ Credits
 
 - Developed and tested by [@MattThePrintingNerd](https://www.youtube.com/@MattThePrintingNerd)  
-- Special thanks to [@Volgger](https://www.youtube.com/@Volgger2278), who supported the entire Alpha phase with testing, feedback, and countless improvements that helped shape the final printer.
+- Special thanks to [@Volgger](https://www.youtube.com/@HomeOfTheWildSau), who supported the entire Alpha phase with testing, feedback, and countless improvements that helped shape the final printer.
 - Endless gratitude to all my **Patreon supporters**, whose ongoing support makes projects like this possible!
 
 ---
