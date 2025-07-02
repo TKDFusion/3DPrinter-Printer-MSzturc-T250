@@ -54,6 +54,20 @@ With verified real-world acceleration of up to **250,000 mm/s²** and sustaine
 
 ---
 
+## Input shaper results
+
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="Photos/Belt Response 73hz.png">
+
+---
+
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="Photos/IS_X.png">
+
+---
+
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="Photos/IS_Y.png">
+
+---
+
 ## 📎 License
 
 This project is licensed under the **Creative Commons** (Attribution-NonCommercial-ShareAlike 4.0 International).
