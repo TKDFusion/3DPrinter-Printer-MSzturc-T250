@@ -1,0 +1,46 @@
+{
+    "name": "THE100",
+    "version": "02.03.00.01",
+    "force_update": "0",
+    "description": "THE100 configurations",
+    "machine_model_list": [
+        {
+            "name": "T250",
+            "sub_path": "machine/T250.json"
+        }
+    ],
+    "process_list": [
+        {
+            "name": "T250_fdm_process_common",
+            "sub_path": "process/T250_fdm_process_common.json"
+        },
+        {
+            "name": "0.12mm Fine @T250",
+            "sub_path": "process/0.12mm Fine @T250.json"
+        },
+        {
+            "name": "0.25mm Draft @T250",
+            "sub_path": "process/0.25mm Draft @T250.json"
+        }
+    ],
+    "filament_list": [
+        {
+            "name": "T250 Generic PLA",
+            "sub_path": "filament/T250 Generic PLA.json"
+        }
+    ],
+    "machine_list": [
+        {
+            "name": "T250_machine_common",
+            "sub_path": "machine/T250_machine_common.json"
+        },
+        {
+            "name": "T250 - 0.4 nozzle",
+            "sub_path": "machine/T250 - 0.4 nozzle.json"
+        },
+        {
+            "name": "T250 - 0.5 nozzle",
+            "sub_path": "machine/T250 - 0.5 nozzle.json"
+        }
+    ]
+}

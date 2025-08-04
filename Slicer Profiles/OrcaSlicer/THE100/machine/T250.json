@@ -1,0 +1,11 @@
+{
+    "type": "machine_model",
+    "name": "T250",
+    "model_id": "T250",
+    "nozzle_diameter": "0.4;0.5",
+    "machine_tech": "FFF",
+    "family": "THE100",
+    "bed_model": "Bed.stl",
+    "bed_texture": "The100_Texture_Front.svg",
+    "default_materials": "T250 Generic PLA"
+}
